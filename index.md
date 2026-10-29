@@ -33,6 +33,7 @@ I build LLM and multi-agent systems, and I specialise in the part most teams ski
 - 🕸️ **Agentic & multi-agent systems** — LangChain, LangGraph, orchestrator/sub-agent architectures executing against a live external application
 - 📈 **Observability** — MLflow run tracking, Arize Phoenix tracing, span-level reading of agent traces
 - 🧪 **Controlled experiments** — one variable at a time, negative results reported at the same length as positive ones
+- 🛠️ **AI-assisted engineering** — I work with Claude Code every day, and a lot with Codex, inside a harness I built and version myself: 21 skills, over 40 hooks and 36 test files since July 2026. One of its gates is public: [**claim-gate**](https://github.com/CY-HYUN/claim-gate), a Stop hook that blocks the agent from ending its turn on a claim it has not backed up
 
 **Key Achievements:**
 - 🏅 **SemEval 2026 Task 2** — validation mean Pearson r **0.6554** on the best single model, with the metric's naming error found and corrected in my own repo
